@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TaskManagerSaimanSays</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="saiman_says">Saiman Says</string>
+    <string name="enter_a_task_title">Enter a task title</string>
+    <string name="enter_a_task">Enter a task</string>
+    <string name="add_custom_task">Add Custom Task</string>
+    <string name="title">Title</string>
+    <string name="task_task_task_task">Task Task Task Task</string>
+    <string name="update">update</string>
+    <string name="delete_all_tasks">Delete All Tasks</string>
+    <string name="add_todo">Add Todo</string>
+    <string name="add_task">Add task</string>
+    <string name="back">back</string>
+    <string name="add_saiman_says">Add Saiman Says</string>
+    <string name="add">ADD</string>
+    <string name="your_tasks">Your Tasks</string>
+    <string name="update_task">UPDATE TASK</string>
+    <string name="task">task</string>
+    <string name="add_custom_task2">Add custom task</string>
+    <string name="swipe_left_on_task_to_delete">Swipe left on task to delete</string>
+    <string name="clear_list">Clear list</string>
+    <string name="long_press_a_task_to_update">Long press a task to update</string>
+</resources>
